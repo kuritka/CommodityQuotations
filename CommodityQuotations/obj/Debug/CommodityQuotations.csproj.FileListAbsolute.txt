@@ -1,0 +1,10 @@
+c:\_CoffeeWheat\__New\TestData\TestData\bin\Debug\CommodityQuotations.dll
+c:\_CoffeeWheat\__New\TestData\TestData\bin\Debug\CommodityQuotations.pdb
+c:\_CoffeeWheat\__New\TestData\TestData\obj\Debug\CommodityQuotations.csprojResolveAssemblyReference.cache
+c:\_CoffeeWheat\__New\TestData\TestData\obj\Debug\CommodityQuotations.dll
+c:\_CoffeeWheat\__New\TestData\TestData\obj\Debug\CommodityQuotations.pdb
+C:\_CoffeeWheat\__New\TestData\CommodityQuotations\bin\Debug\CommodityQuotations.dll
+C:\_CoffeeWheat\__New\TestData\CommodityQuotations\bin\Debug\CommodityQuotations.pdb
+C:\_CoffeeWheat\__New\TestData\CommodityQuotations\obj\Debug\CommodityQuotations.csprojResolveAssemblyReference.cache
+C:\_CoffeeWheat\__New\TestData\CommodityQuotations\obj\Debug\CommodityQuotations.dll
+C:\_CoffeeWheat\__New\TestData\CommodityQuotations\obj\Debug\CommodityQuotations.pdb

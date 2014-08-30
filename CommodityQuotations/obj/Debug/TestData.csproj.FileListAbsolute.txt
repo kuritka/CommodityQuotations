@@ -1,0 +1,5 @@
+c:\_CoffeeWheat\__New\TestData\TestData\bin\Debug\TestData.dll
+c:\_CoffeeWheat\__New\TestData\TestData\bin\Debug\TestData.pdb
+c:\_CoffeeWheat\__New\TestData\TestData\obj\Debug\TestData.csprojResolveAssemblyReference.cache
+c:\_CoffeeWheat\__New\TestData\TestData\obj\Debug\TestData.dll
+c:\_CoffeeWheat\__New\TestData\TestData\obj\Debug\TestData.pdb
