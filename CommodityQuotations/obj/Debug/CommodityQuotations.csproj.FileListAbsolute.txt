@@ -8,3 +8,8 @@ C:\_CoffeeWheat\__New\TestData\CommodityQuotations\bin\Debug\CommodityQuotations
 C:\_CoffeeWheat\__New\TestData\CommodityQuotations\obj\Debug\CommodityQuotations.csprojResolveAssemblyReference.cache
 C:\_CoffeeWheat\__New\TestData\CommodityQuotations\obj\Debug\CommodityQuotations.dll
 C:\_CoffeeWheat\__New\TestData\CommodityQuotations\obj\Debug\CommodityQuotations.pdb
+C:\Users\michal\Documents\GitHub\CommodityQuotations\CommodityQuotations\obj\Debug\CommodityQuotations.csprojResolveAssemblyReference.cache
+C:\Users\michal\Documents\GitHub\CommodityQuotations\CommodityQuotations\obj\Debug\CommodityQuotations.dll
+C:\Users\michal\Documents\GitHub\CommodityQuotations\CommodityQuotations\obj\Debug\CommodityQuotations.pdb
+C:\Users\michal\Documents\GitHub\CommodityQuotations\CommodityQuotations\bin\Debug\CommodityQuotations.dll
+C:\Users\michal\Documents\GitHub\CommodityQuotations\CommodityQuotations\bin\Debug\CommodityQuotations.pdb

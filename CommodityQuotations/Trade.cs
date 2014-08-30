@@ -6,7 +6,7 @@ using System;
 
 namespace CommodityQuotations
 {
-    public class Trade
+    public class Quotation
     {
         public decimal High { get; set; }
 

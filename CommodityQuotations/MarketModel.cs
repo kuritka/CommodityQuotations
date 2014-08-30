@@ -11,6 +11,6 @@ namespace CommodityQuotations
     {
         public ContractSpecification ContractSpecification { get; set; }
 
-        public ReadOnlyCollection<Trade> WeeklyData { get;  set; }
+        public ReadOnlyCollection<Quotation> WeeklyData { get;  set; }
     }
 }
